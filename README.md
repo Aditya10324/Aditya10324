@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aditya Negi 👋
 
-<!--
-**Aditya10324/Aditya10324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First Year B.Tech Student**  
+**VIT Bhopal University**  
+**Branch:** Computer Science & Engineering  
+**Location:** Bhopal, Madhya Pradesh  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+I am an aspiring software engineer passionate about coding, AI, and building digital solutions. Currently exploring programming fundamentals and preparing for tech internships.
+
+---
+
+## 🌟 What I Hope to Learn
+**"I hope to master full-stack development and contribute to open-source projects during my time at VIT Bhopal, eventually building my own startup by 2030."**
+
+---
+
+## 🛠️ Current Skills
+- Python (Beginner)
+- Java (Intermediate)
+- Git & GitHub
+- Digital Literacy Tools
+- Professional Communication
+
+---
+
+## 📚 Education
+**B.Tech Computer Science Engineering**  
+**VIT Bhopal University** *(2025-2029)*
+
+---
+
+## 🔗 Find Me Online
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya10324)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-negi-0506433ba/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[aditya.25bce10324@vitbhopal.ac.in])
+
+---
